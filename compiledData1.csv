@@ -59,12 +59,6 @@ ukLanguage,E12000009,2,126140,South West
 ukLanguage,E12000009,3,90157,South West
 ukLanguage,E12000009,4,32603,South West
 ukLanguage,E12000009,5,5481,South West
-ukLanguage,W92000004,-8,89322,Wales
-ukLanguage,W92000004,1,2917644,Wales
-ukLanguage,W92000004,2,43242,Wales
-ukLanguage,W92000004,3,35120,Wales
-ukLanguage,W92000004,4,18494,Wales
-ukLanguage,W92000004,5,3672,Wales
 householdLanguage,W92000004,-8,0,Wales
 householdLanguage,W92000004,1,1295565,Wales
 householdLanguage,W92000004,2,20463,Wales
@@ -115,11 +109,6 @@ householdLanguage,E12000009,1,2316582,South West
 householdLanguage,E12000009,2,54060,South West
 householdLanguage,E12000009,3,16893,South West
 householdLanguage,E12000009,4,61346,South West
-householdLanguage,W92000004,-8,0,Wales
-householdLanguage,W92000004,1,1295565,Wales
-householdLanguage,W92000004,2,20463,Wales
-householdLanguage,W92000004,3,6594,Wales
-householdLanguage,W92000004,4,24492,Wales
 mainLanguage,W92000004,-8,89322,Wales
 mainLanguage,W92000004,1,2917644,Wales
 mainLanguage,W92000004,2,0,Wales
@@ -1070,96 +1059,8 @@ mainLanguage,E12000009,91,1720,South West
 mainLanguage,E12000009,92,141,South West
 mainLanguage,E12000009,93,373,South West
 mainLanguage,E12000009,94,335,South West
-mainLanguage,W92000004,-8,89322,Wales
-mainLanguage,W92000004,1,2917644,Wales
-mainLanguage,W92000004,2,0,Wales
-mainLanguage,W92000004,3,40,Wales
-mainLanguage,W92000004,4,10,Wales
-mainLanguage,W92000004,5,4,Wales
-mainLanguage,W92000004,6,8,Wales
-mainLanguage,W92000004,7,7,Wales
-mainLanguage,W92000004,8,28,Wales
-mainLanguage,W92000004,9,1,Wales
-mainLanguage,W92000004,10,51,Wales
-mainLanguage,W92000004,11,5,Wales
-mainLanguage,W92000004,12,1628,Wales
-mainLanguage,W92000004,13,3644,Wales
-mainLanguage,W92000004,14,3065,Wales
-mainLanguage,W92000004,15,2367,Wales
-mainLanguage,W92000004,16,1213,Wales
-mainLanguage,W92000004,17,20862,Wales
-mainLanguage,W92000004,18,1416,Wales
-mainLanguage,W92000004,19,1277,Wales
-mainLanguage,W92000004,20,6020,Wales
-mainLanguage,W92000004,21,1780,Wales
-mainLanguage,W92000004,22,488,Wales
-mainLanguage,W92000004,23,2152,Wales
-mainLanguage,W92000004,24,2489,Wales
-mainLanguage,W92000004,25,1414,Wales
-mainLanguage,W92000004,26,553,Wales
-mainLanguage,W92000004,27,240,Wales
-mainLanguage,W92000004,28,102,Wales
-mainLanguage,W92000004,29,82,Wales
-mainLanguage,W92000004,30,68,Wales
-mainLanguage,W92000004,31,67,Wales
-mainLanguage,W92000004,32,75,Wales
-mainLanguage,W92000004,33,136,Wales
-mainLanguage,W92000004,34,442,Wales
-mainLanguage,W92000004,35,97,Wales
-mainLanguage,W92000004,36,6,Wales
-mainLanguage,W92000004,37,260,Wales
-mainLanguage,W92000004,38,208,Wales
-mainLanguage,W92000004,39,10,Wales
-mainLanguage,W92000004,40,0,Wales
-mainLanguage,W92000004,41,1345,Wales
-mainLanguage,W92000004,42,2327,Wales
-mainLanguage,W92000004,43,8515,Wales
-mainLanguage,W92000004,44,54,Wales
-mainLanguage,W92000004,45,1850,Wales
-mainLanguage,W92000004,46,1436,Wales
-mainLanguage,W92000004,47,542,Wales
-mainLanguage,W92000004,48,144,Wales
-mainLanguage,W92000004,49,2239,Wales
-mainLanguage,W92000004,50,638,Wales
-mainLanguage,W92000004,51,2086,Wales
-mainLanguage,W92000004,52,3,Wales
-mainLanguage,W92000004,53,4671,Wales
-mainLanguage,W92000004,54,751,Wales
-mainLanguage,W92000004,55,157,Wales
-mainLanguage,W92000004,56,558,Wales
-mainLanguage,W92000004,57,1635,Wales
-mainLanguage,W92000004,58,2018,Wales
-mainLanguage,W92000004,59,298,Wales
-mainLanguage,W92000004,60,1076,Wales
-mainLanguage,W92000004,61,459,Wales
-mainLanguage,W92000004,62,989,Wales
-mainLanguage,W92000004,63,1571,Wales
-mainLanguage,W92000004,64,4331,Wales
-mainLanguage,W92000004,65,343,Wales
-mainLanguage,W92000004,66,225,Wales
-mainLanguage,W92000004,67,421,Wales
-mainLanguage,W92000004,68,888,Wales
-mainLanguage,W92000004,69,252,Wales
-mainLanguage,W92000004,70,1772,Wales
-mainLanguage,W92000004,71,228,Wales
-mainLanguage,W92000004,72,22,Wales
-mainLanguage,W92000004,73,4,Wales
-mainLanguage,W92000004,74,1,Wales
-mainLanguage,W92000004,75,9,Wales
-mainLanguage,W92000004,76,180,Wales
-mainLanguage,W92000004,77,501,Wales
-mainLanguage,W92000004,78,867,Wales
-mainLanguage,W92000004,79,3,Wales
-mainLanguage,W92000004,80,55,Wales
-mainLanguage,W92000004,81,120,Wales
-mainLanguage,W92000004,82,103,Wales
-mainLanguage,W92000004,83,110,Wales
-mainLanguage,W92000004,84,14,Wales
-mainLanguage,W92000004,85,52,Wales
-mainLanguage,W92000004,86,166,Wales
-mainLanguage,W92000004,87,185,Wales
-mainLanguage,W92000004,88,51,Wales
-mainLanguage,W92000004,89,167,Wales
+
+
 mainLanguage,W92000004,90,277,Wales
 mainLanguage,W92000004,91,893,Wales
 mainLanguage,W92000004,92,155,Wales
